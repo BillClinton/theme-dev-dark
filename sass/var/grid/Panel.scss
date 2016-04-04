@@ -1,15 +1,16 @@
-$grid-header-background-color: dynamic($dark-bg);
+
+$grid-header-background-color: dynamic($dark-bg3);
 $grid-header-over-background-color: dynamic($dark-bg3);
-$grid-header-border-color: dynamic($dark-bg2);
+$grid-header-border-color: dynamic($dark-bg3);
 $grid-header-border-width: 1px;
 $grid-header-color: dynamic($front-color);
 $grid-header-line-height: 28px;
-$grid-header-padding: 10px;
+$grid-header-padding: 4px;
 
-$grid-row-cell-background-color : dynamic($dark-bg);
-$grid-row-cell-alt-background-color: dynamic($dark-bg);
+$grid-row-cell-background-color : dynamic($dark-bg1);
+$grid-row-cell-alt-background-color: dynamic($dark-bg1);
 $grid-row-cell-border-width: dynamic(2px);
-$grid-row-cell-border-color: lighten($dark-bg2, 10%);
+$grid-row-cell-border-color: lighten($dark-bg3, 10%);
 $grid-row-cell-focus-border-width: dynamic(0);
 $grid-row-cell-color : dynamic($front-color2);
 

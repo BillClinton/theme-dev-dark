@@ -1,22 +1,21 @@
 //my own variables
-//$dark-bg: #000;
-$dark-bg: #2d2d30;
-$dark-bg2: #121314;
-//$dark-bg3: #2d2d30;
-$dark-bg3: #000;
-$dark-bg4: darken(#88898C, 15%);
+$dark-bg0: #000;
+$dark-bg1: #2f2f2f;
+$dark-bg2: #3b3b3b;
+$dark-bg3: #474747;
+$dark-bg4: #535353;
 
-$front-color: #adafb2;
+$front-color: #ccc;
 $front-color2: #fff;
 
 $highlight-color: $base-color;
 $highlight-color2: lighten($highlight-color, 20%);
 $highlight-color3: darken($highlight-color, 20%);
 
-$font-family: 'Montserrat', helvetica , arial , verdana , sans-serif;
+//$font-family: 'Montserrat', helvetica , arial , verdana , sans-serif;
+//$font-size: 12px;
+$font-family: 'Roboto', sans-serif; //UI lab
 $font-size: 12px;
-//$font-family: 'Roboto', sans-serif; //UI lab
-//$font-size: 14px;
 
 $black-background-color: #fff;
 $dark-background-color: #2d2d30;

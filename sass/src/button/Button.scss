@@ -1,0 +1,31 @@
+@include extjs-button-small-ui(
+    $ui: 'menu-button',
+    $font-size: 10px,
+    $font-weight: normal,
+
+    $color: darken($front-color,20%),
+    $color-over: $front-color,
+    $glyph-color: $dark-bg4,
+    $padding: 0,
+
+    $background-color: $dark-bg0,
+    $background-color-over: $dark-bg0,
+    $background-color-pressed: $dark-bg0,
+    $background-color-disabled: $dark-bg0,
+
+    $inner-border-width: null,
+    $inner-border-width-over: null,
+    $inner-border-width-focus: null,
+    $inner-border-width-pressed: null,
+    $inner-border-width-focus-over: null,
+    $inner-border-width-focus-pressed: null,
+    $inner-border-width-disabled: null,
+
+    $border-color: $dark-bg1,
+    $border-color-over: $front-color,
+    $border-color-focus: $front-color,
+
+
+    $background-gradient: null,
+    $background-gradient-over: null
+);
